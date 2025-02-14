@@ -31,12 +31,6 @@
             </div>
         </div>
     </section>
-    <img src="https://github.com/user-attachments/assets/573f7bfe-895b-4478-a38e-ee3dd0001c0a" alt="THP Logo"
-       body
-{
- padding:0;
- margin:0;
-} 
-        >
+    <img src="https://github.com/user-attachments/assets/573f7bfe-895b-4478-a38e-ee3dd0001c0a" alt="THP Logo">
 </body>
 </html>
