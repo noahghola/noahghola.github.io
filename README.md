@@ -5,6 +5,12 @@
         <link rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+        body {
+ padding:0;
+ margin:0;
+} 
+            </style
     </head>
 <body>
     <section class="hero is-fullheight is-dark">
