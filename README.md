@@ -1,5 +1,3 @@
-# noahghola.github.io
-
 <!DOCTYPE html>
 <html>
     <head>
