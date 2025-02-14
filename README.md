@@ -29,5 +29,6 @@
         </div>
     </section>
 </body>
+        ![THP_LogoTextOnly](https://github.com/user-attachments/assets/573f7bfe-895b-4478-a38e-ee3dd0001c0a)
 </html>
-    ![THP_LogoTextOnly](https://github.com/user-attachments/assets/573f7bfe-895b-4478-a38e-ee3dd0001c0a)
+
