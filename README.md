@@ -32,5 +32,7 @@
         </div>
     </section>
     <img src="https://github.com/user-attachments/assets/573f7bfe-895b-4478-a38e-ee3dd0001c0a" alt="THP Logo">
+        <img src="![THP_LogoTextOnly](https://github.com/user-attachments/assets/f4604a11-7158-4846-a569-640a360de127)">
+  
 </body>
 </html>
