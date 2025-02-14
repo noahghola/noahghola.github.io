@@ -31,6 +31,6 @@
             </div>
         </div>
     </section>
-        <img src="![THP_LogoTextOnly](https://github.com/user-attachments/assets/f4604a11-7158-4846-a569-640a360de127)" alt="THP Logo"> 
+        <img src="https://github.com/user-attachments/assets/f4604a11-7158-4846-a569-640a360de127" alt="THP Logo"> 
 </body>
 </html>
