@@ -29,9 +29,10 @@ p    {color: #009245;}
 </head>
 <body>
 
+<!--
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
-
+-->
 
 <p class="aligncenter">
     <img src="https://github.com/user-attachments/assets/f4604a11-7158-4846-a569-640a360de127" alt="THP Logo" width="500" height="500">
