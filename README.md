@@ -3,8 +3,9 @@
 -->
 
 <html>
-<head>
-
+<!--
+    <head>
+-->
 <style>
 body {background-color: black;
     padding:0;
@@ -26,7 +27,9 @@ p    {color: #009245;}
 }
 
 </style>
+<!--
 </head>
+-->
 <body>
 
 <!--
